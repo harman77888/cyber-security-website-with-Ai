@@ -1,0 +1,884 @@
+# CYBERSHIELD — ENTERPRISE CYBERSECURITY OPERATIONS PLATFORM
+
+Build a complete, highly professional, production-style cybersecurity platform named:
+
+**CYBERSHIELD**
+**Cybersecurity Operations & Threat Intelligence Platform**
+
+The website must look like a real enterprise cybersecurity SaaS product, not a beginner project, college assignment, generic template, or obviously AI-generated website.
+
+---
+
+## 1. TECHNOLOGY
+
+Use only:
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+Do NOT use:
+
+* React
+* Bootstrap
+* Tailwind CSS
+* jQuery
+* Any UI framework
+
+Keep all HTML, CSS and JavaScript properly separated.
+
+Use clean, scalable and maintainable code.
+
+---
+
+# 2. OVERALL DESIGN DIRECTION
+
+Create a premium **Enterprise Security Operations Center (SOC)** visual identity.
+
+The design should feel:
+
+* Professional
+* Technical
+* Secure
+* Premium
+* Minimal
+* Modern
+* Enterprise-grade
+* Trustworthy
+
+### Color system
+
+Primary:
+
+* Near-black
+* Deep graphite
+* Dark charcoal
+
+Accent:
+
+* Electric cyan
+* Cool blue
+
+Supporting:
+
+* Security green
+* Amber for warnings
+* Red for critical threats
+
+Use accent colors carefully.
+
+Do NOT create an excessively neon interface.
+
+Avoid:
+
+* Gaming-style UI
+* Hacker clichés
+* Skull graphics
+* Excessive glowing text
+* Excessive gradients
+* Excessive glassmorphism
+* Random futuristic graphics
+* Excessive animations
+* Emojis
+* Keyboard-symbol icons
+
+Use subtle shadows, borders and controlled glow effects.
+
+---
+
+# 3. TYPOGRAPHY
+
+Use a modern professional font such as:
+
+* Inter
+* Manrope
+* Space Grotesk
+
+Use strong typography hierarchy.
+
+Headings should feel powerful and editorial.
+
+Use:
+
+* Large hero typography
+* Small uppercase labels
+* Clean body text
+* Compact dashboard typography
+* Clear data hierarchy
+
+---
+
+# 4. PUBLIC WEBSITE
+
+Create the following pages:
+
+1. Home
+2. Platform
+3. Threat Intelligence
+4. Security Monitoring
+5. Vulnerability Management
+6. Incident Response
+7. Security Services
+8. Industries
+9. Case Studies
+10. Security Reports
+11. Blog
+12. About
+13. Contact
+14. Login
+15. Register
+
+---
+
+# 5. HOME PAGE
+
+Create a premium enterprise cybersecurity landing page.
+
+### Hero
+
+Headline:
+
+**“Defend Every Layer. Detect Every Threat.”**
+
+Description:
+
+“CyberShield delivers intelligent threat detection, continuous security monitoring and enterprise-grade cyber defense through a unified security operations platform.”
+
+Buttons:
+
+* Explore Platform
+* Request Security Assessment
+
+Add a sophisticated cybersecurity visualization beside the hero.
+
+The visualization should contain:
+
+* Threat activity
+* Network nodes
+* Security status
+* Threat indicators
+* Protected assets
+* System health
+* Security metrics
+
+Add:
+
+**SYSTEMS OPERATIONAL**
+
+Do not claim that the visualization is connected to real systems.
+
+---
+
+# 6. SECURITY PLATFORM PAGE
+
+Explain the complete CyberShield ecosystem.
+
+Include:
+
+* Security Operations
+* Threat Intelligence
+* Vulnerability Management
+* Incident Response
+* Security Monitoring
+* Security Analytics
+
+Create professional feature sections and product previews.
+
+---
+
+# 7. THREAT INTELLIGENCE
+
+Create a professional threat intelligence interface.
+
+Include:
+
+* Global Threat Overview
+* Threat Actors
+* Attack Vectors
+* Malware Intelligence
+* Indicators of Compromise
+* Suspicious IPs
+* Suspicious Domains
+* Recent Campaigns
+* Threat Timeline
+
+Add filtering:
+
+* Severity
+* Threat Type
+* Region
+* Date
+
+Use realistic **demo/sample data**.
+
+Do not represent the information as live intelligence.
+
+---
+
+# 8. VULNERABILITY MANAGEMENT
+
+Create a professional vulnerability management interface.
+
+Statistics:
+
+* Total Vulnerabilities
+* Critical
+* High
+* Medium
+* Low
+* Patched
+* Risk Score
+
+Create a table with:
+
+* CVE ID
+* Asset
+* Severity
+* Risk Score
+* Status
+* Discovered Date
+* Action
+
+Add:
+
+* Search
+* Filter
+* Sorting
+* View Details
+
+---
+
+# 9. INCIDENT RESPONSE
+
+Create an incident response management interface.
+
+Categories:
+
+* Active
+* Investigating
+* Contained
+* Resolved
+
+Each incident should contain:
+
+* Incident ID
+* Severity
+* Type
+* Affected Asset
+* Detection Time
+* Current Status
+* Assigned Analyst
+
+Incident details should include:
+
+* Investigation Timeline
+* Evidence
+* Response Actions
+* Analyst Notes
+* Resolution
+
+---
+
+# 10. SECURITY MONITORING
+
+Create a professional monitoring interface.
+
+Include:
+
+* Network Traffic
+* Authentication Activity
+* Failed Login Attempts
+* Endpoint Health
+* Firewall Events
+* Suspicious Requests
+* API Activity
+
+Use clean charts and data visualizations.
+
+Charts must be subtle and professional.
+
+---
+
+# 11. SERVICES
+
+Create service pages for:
+
+* Managed Security Operations
+* Threat Intelligence
+* Vulnerability Assessment
+* Penetration Testing
+* Incident Response
+* Cloud Security
+* Network Security
+* Security Consulting
+
+Every service should contain:
+
+* Overview
+* Key capabilities
+* Security process
+* Benefits
+* CTA
+
+---
+
+# 12. INDUSTRIES
+
+Create sections for:
+
+* Banking & Finance
+* Healthcare
+* E-commerce
+* Government
+* SaaS & Technology
+* Manufacturing
+* Education
+
+Explain cybersecurity requirements for each industry.
+
+---
+
+# 13. CASE STUDIES
+
+Create realistic fictional case studies.
+
+Each case study should contain:
+
+* Company type
+* Security challenge
+* Threat/problem
+* CyberShield solution
+* Implementation
+* Results
+
+Clearly present all metrics as fictional/demo case-study data.
+
+---
+
+# 14. SECURITY REPORTS
+
+Create a reports section containing:
+
+* Monthly Security Report
+* Threat Landscape Report
+* Vulnerability Report
+* Incident Summary
+* Compliance Report
+
+Each report should have:
+
+* Title
+* Date
+* Category
+* Severity
+* Summary
+* View Report
+
+---
+
+# 15. CLIENT PORTAL
+
+Create a separate authenticated client portal.
+
+Include:
+
+* Overview
+* Security Score
+* Assets
+* Vulnerabilities
+* Incidents
+* Reports
+* Alerts
+* Team Members
+* Account Settings
+
+The client portal must feel like a SaaS application.
+
+---
+
+# 16. LOGIN & REGISTER
+
+Create premium authentication pages.
+
+### Login
+
+Fields:
+
+* Email
+* Password
+* Remember Me
+* Forgot Password
+* Login
+
+### Register
+
+Fields:
+
+* Full Name
+* Company
+* Work Email
+* Password
+* Confirm Password
+
+Implement frontend validation using JavaScript.
+
+Add password visibility toggle.
+
+---
+
+# 17. MAIN SOC DASHBOARD
+
+THIS IS THE MOST IMPORTANT PART OF THE PROJECT.
+
+The dashboard must NOT look like a normal website.
+
+It should look like a real **Security Operations Center SaaS application**.
+
+## IMPORTANT:
+
+**DO NOT ADD A FOOTER TO ANY DASHBOARD PAGE.**
+
+No footer should appear inside:
+
+* SOC Dashboard
+* Threat Intelligence Dashboard
+* Vulnerability Dashboard
+* Incident Dashboard
+* Monitoring Dashboard
+* Client Portal
+
+The dashboard must occupy the complete viewport.
+
+---
+
+# 18. DASHBOARD STRUCTURE
+
+Use a full-screen application layout:
+
+### LEFT SIDEBAR
+
+CyberShield logo
+
+Sections:
+
+MAIN
+
+* Dashboard
+* Threat Intelligence
+* Security Monitoring
+
+SECURITY
+
+* Vulnerabilities
+* Incidents
+* Assets
+
+INTELLIGENCE
+
+* Reports
+* Case Studies
+
+SYSTEM
+
+* Settings
+* Help & Support
+
+Bottom:
+
+User Profile
+Security Analyst
+Online
+
+Sidebar should be collapsible.
+
+On mobile, convert it into a slide-out drawer.
+
+---
+
+# 19. DASHBOARD TOP BAR
+
+Top navigation should contain:
+
+Left:
+
+* Page title
+* Breadcrumb
+
+Center:
+Global Search
+
+Placeholder:
+
+“Search threats, assets, incidents...”
+
+Right:
+
+* System Status
+* Notifications
+* User Profile
+
+Keep the top bar compact and professional.
+
+---
+
+# 20. DASHBOARD MAIN CONTENT
+
+Create the following KPI cards:
+
+### SECURITY SCORE
+
+94.8
+
++2.4% this week
+
+Excellent
+
+### ACTIVE THREATS
+
+07
+
+2 Critical
+5 High
+
+### PROTECTED ASSETS
+
+1,284
+
+99.2% Healthy
+
+### OPEN INCIDENTS
+
+03
+
+1 Critical
+2 Medium
+
+Cards must have:
+
+* Small category label
+* Large metric
+* Trend indicator
+* Supporting information
+* Minimal icon
+* Subtle hover animation
+
+---
+
+# 21. THREAT ACTIVITY
+
+Create a large professional chart titled:
+
+**Threat Activity**
+
+Display simulated threat activity over time.
+
+Include:
+
+* Detected threats
+* Blocked threats
+* Suspicious activity
+
+Use subtle animated chart interactions.
+
+Clearly indicate that data is demonstration/sample data.
+
+---
+
+# 22. SECURITY HEALTH
+
+Create a compact security health panel.
+
+Show:
+
+Network
+Healthy
+
+Endpoints
+Healthy
+
+Cloud
+Healthy
+
+Identity
+Warning
+
+APIs
+Healthy
+
+Use professional status indicators.
+
+---
+
+# 23. RECENT SECURITY EVENTS
+
+Create a timeline showing:
+
+* Suspicious Login Attempt
+* Malware Detection
+* Vulnerability Discovered
+* Firewall Rule Triggered
+* Unusual API Activity
+
+Each event should show:
+
+* Time
+* Event
+* Severity
+* Status
+
+---
+
+# 24. CRITICAL ALERTS
+
+Create a dedicated critical-alert panel.
+
+Example:
+
+CRITICAL
+Multiple Failed Login Attempts
+
+HIGH
+Suspicious API Request
+
+HIGH
+Unpatched Server Vulnerability
+
+MEDIUM
+Unusual Authentication Pattern
+
+Allow the user to click an alert and view details.
+
+---
+
+# 25. THREAT INTELLIGENCE OVERVIEW
+
+Create cards for:
+
+* Threat Actors
+* Malware Detection
+* Suspicious IPs
+* Phishing Attempts
+* Blocked Requests
+
+Use realistic demo numbers.
+
+---
+
+# 26. DASHBOARD THEME
+
+The dashboard should use:
+
+* Deep graphite background
+* Dark charcoal panels
+* Thin subtle borders
+* Electric cyan highlights
+* Cool blue secondary accents
+* Green healthy indicators
+* Amber warnings
+* Red critical states
+
+Keep the UI sophisticated.
+
+Do NOT make every element glow.
+
+Use glow only for important status indicators.
+
+---
+
+# 27. DASHBOARD ANIMATIONS
+
+Use subtle animations:
+
+* Card hover
+* Chart transitions
+* Sidebar transitions
+* Notification animation
+* Counter animation
+* Page transitions
+* Status pulse
+* Modal transitions
+
+Animations must be smooth and fast.
+
+Avoid distracting animations.
+
+---
+
+# 28. JAVASCRIPT FUNCTIONALITY
+
+Implement actual frontend functionality for:
+
+* Mobile menu
+* Sidebar collapse
+* Dropdowns
+* Modal windows
+* Tabs
+* Accordions
+* Search
+* Filtering
+* Sorting
+* Form validation
+* Password visibility
+* Login UI
+* Register UI
+* Dashboard navigation
+* Charts
+* Notifications
+* Toast messages
+* Counters
+* Status updates
+* Interactive tables
+
+Buttons should perform real frontend actions.
+
+Do NOT create dead buttons.
+
+---
+
+# 29. RESPONSIVE DESIGN
+
+The entire website must work on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+Use:
+
+* CSS Grid
+* Flexbox
+* Responsive typography
+* Responsive tables
+* Mobile sidebar
+* Adaptive cards
+* Responsive navigation
+
+The dashboard must remain usable on small screens.
+
+---
+
+# 30. CODE STRUCTURE
+
+Use:
+
+CyberShield/
+
+├── index.html
+├── platform.html
+├── threat-intelligence.html
+├── monitoring.html
+├── vulnerabilities.html
+├── incidents.html
+├── services.html
+├── industries.html
+├── case-studies.html
+├── reports.html
+├── blog.html
+├── about.html
+├── contact.html
+├── login.html
+├── register.html
+└── dashboard.html
+
+css/
+
+├── global.css
+├── components.css
+├── dashboard.css
+└── responsive.css
+
+js/
+
+├── main.js
+├── dashboard.js
+├── auth.js
+├── charts.js
+├── filters.js
+└── validation.js
+
+assets/
+
+├── images/
+├── icons/
+└── logos/
+
+---
+
+# 31. CODE QUALITY
+
+Follow professional development standards.
+
+Use:
+
+* Semantic HTML5
+* Clean CSS architecture
+* Reusable components/classes
+* Meaningful class names
+* Modular JavaScript
+* Proper accessibility
+* SEO-friendly HTML
+* Proper alt text
+* Responsive design
+* No unnecessary inline CSS
+* No unnecessary inline JavaScript
+* No console errors
+
+---
+
+# 32. IMAGE & ICON STYLE
+
+Use professional cybersecurity visuals.
+
+Avoid generic stock images whenever possible.
+
+Prefer:
+
+* Abstract security visualizations
+* Network diagrams
+* Server infrastructure
+* Security operations imagery
+* Enterprise technology imagery
+
+Icons should be clean and consistent.
+
+Do not use emojis as icons.
+
+---
+
+# 33. FINAL QUALITY REQUIREMENT
+
+The final website must look like a real enterprise cybersecurity company and SaaS platform.
+
+It should combine:
+
+**Corporate Website**
++
+**Cybersecurity Product**
++
+**SOC Dashboard**
++
+**Threat Intelligence Platform**
++
+**Client Portal**
+
+The final result should be:
+
+Premium
+Minimal
+Technical
+Professional
+Responsive
+Interactive
+Realistic
+Portfolio-ready
+
+Most importantly:
+
+**The public website may have a professional footer, but every authenticated dashboard/application screen must be completely footer-free and use a full-screen SOC-style interface.**
+
+Do not create a generic template.
+
+Do not make it look AI-generated.
+
+Build the visual hierarchy, spacing, interactions and dashboard architecture as if this were a real enterprise cybersecurity product being prepared for a professional launch.
